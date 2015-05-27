@@ -26,10 +26,7 @@ class Rss extends CI_Controller {
             $data['title'] = 'RSS Feed';               
             $this->load->view('rss/index', $data);
             $this->load->view('rss/index', $data);
-            $this->load->view('rss/index', $data);
-            $this->load->view('rss/index', $data);
-            $this->load->view('rss/index', $data);
-            $this->load->view('rss/index', $data);
+            
               
         }#end index
 
