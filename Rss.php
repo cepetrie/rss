@@ -1,8 +1,7 @@
 <?php
 //Rss.php controller
 //Rss.php controller
-//Rss.php controller
-//Rss.php controller
+
 class Rss extends CI_Controller {
 
         public function __construct()
